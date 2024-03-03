@@ -1,0 +1,6 @@
+$(function() {
+
+	// $('#exampleModalCenter').modal();
+
+	
+})
